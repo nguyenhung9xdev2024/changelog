@@ -1,0 +1,2 @@
+THÔNG BÁO UPDATE : 18/11/2014
+- Fix các vấn đề usb không ổn định trên S10 5G rom ONEUI stock và magisk
