@@ -1,5 +1,11 @@
-THÔNG BÁO UPDATE : 22/11/2014
+THÔNG BÁO UPDATE : 30/11/2024
+- ROM GỐC cho samsung galaxy S20+
+
+THÔNG BÁO UPDATE : 29/11/2024
+- ROM GỐC cho samsung galaxy S20+ 5G
+
+THÔNG BÁO UPDATE : 22/11/2024
 - Thêm ROM gốc cho samsung A6 + 
 
-THÔNG BÁO UPDATE : 18/11/2014
+THÔNG BÁO UPDATE : 18/11/2024
 - Fix các vấn đề usb không ổn định trên S10 5G rom ONEUI stock và magisk
