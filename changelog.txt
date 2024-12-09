@@ -1,3 +1,6 @@
+THÔNG BÁO UPDATE : 09/12/2024
+- Update rom gốc cho Samsung note 9 , fix khởi động chậm cho lần chạy rom đầu tiên , lượt bỏ một số app không cần thiết
+
 THÔNG BÁO UPDATE : 30/11/2024
 - ROM GỐC cho samsung galaxy S20+
 
